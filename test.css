@@ -1,0 +1,64 @@
+html,body{
+    margin: 1em;
+    font-family: monospace;
+}
+
+.one{
+    height: 90vh;
+    width: 100%;
+    background-color: rgb(34, 231, 24);
+    border-radius: 2vw;
+}
+.heading{
+    text-align: center;
+    padding-top: 1em;
+    
+}
+.test1{
+    font-size: 2em;
+    padding-left: 5em;
+}
+#name{
+    height: 3rem;
+    width: 90rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: cornsilk;
+}
+#email{
+    height: 3rem;
+    width: 90rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: cornsilk;
+}
+
+#message{
+    height: 3rem;
+    width: 90rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: cornsilk;
+}
+#subject{
+    height: 3rem;
+    width: 90rem;
+    border-radius: 1rem;
+    border-style: solid;
+    border-color: cornsilk;
+}
+
+.button{
+    text-align: center;
+    padding-top: 3rem;
+}
+#btn{
+    height: 3rem;
+    width: 20rem;
+    border-radius: 1rem;
+    border-style: none;
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+    background-color: rgb(0, 0, 0);
+    
+}
